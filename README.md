@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C9A7&center=true&vCenter=true&width=600&lines=Clean+code,+clear+mind)](https://git.io/typing-svg)
 <!--
 **Santanu369/Santanu369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
